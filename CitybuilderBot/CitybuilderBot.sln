@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendshipDrive", "FriendshipDrive\FriendshipDrive.csproj", "{55E34F4A-6C85-496A-BC6D-13760DDAEC9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitybuilderBot", "CitybuilderBot.csproj", "{46B4611E-69D1-426C-8F9B-BC87DFB22B85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{55E34F4A-6C85-496A-BC6D-13760DDAEC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55E34F4A-6C85-496A-BC6D-13760DDAEC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55E34F4A-6C85-496A-BC6D-13760DDAEC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55E34F4A-6C85-496A-BC6D-13760DDAEC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B4611E-69D1-426C-8F9B-BC87DFB22B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B4611E-69D1-426C-8F9B-BC87DFB22B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B4611E-69D1-426C-8F9B-BC87DFB22B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B4611E-69D1-426C-8F9B-BC87DFB22B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {78416775-562B-4D68-A9E1-EF222EF25195}
+		SolutionGuid = {C4C9D19E-57E8-49B5-9311-68456E47B09E}
 	EndGlobalSection
 EndGlobal
